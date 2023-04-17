@@ -27,12 +27,6 @@
         
         <table>
             <tr>
-                <td rowspan="10" width="100px">
-                    <img src="https://lh3.googleusercontent.com/a/AGNmyxbqLypfP98Yx1kEJdomC5EKb5RldS4zsu3q_DEyqg=s360" width="200px"
-                        style="display: block;border-radius: 50%;border-color:white;margin-right:30px" border="2px">
-                </td>
-            </tr>
-            <tr>
                 <td><b>Nama</b></td>
                 <td>:</td>
                 <td><?= $nama ?></td>
